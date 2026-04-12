@@ -22,6 +22,10 @@
 		{
 			"Name": "GameplayCameras",
 			"Enabled": false
+		},
+		{
+			"Name": "Aura",
+			"Enabled": true
 		}
 	]
 }
