@@ -26,6 +26,10 @@
 		{
 			"Name": "Aura",
 			"Enabled": true
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
 		}
 	]
 }
